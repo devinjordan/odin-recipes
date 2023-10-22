@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  line-height: 1.5;
+  background-color: rgb(227, 218, 218);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  width: 750px;
+  height: auto;
+  border-radius: 25px;
+}
+
+li {
+  text-align: left;
+}
+
+br {
+  line-height: 1.5;
+}
+
